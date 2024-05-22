@@ -1,5 +1,5 @@
 {
-    "container.imageLocation": "https://ktock.github.io/image-example/amd64-curl-debian-wasi",
+    "container.imageLocation": "https://ktock.github.io/image-example/amd64-gcc-debian-wasi",
     "container.imageChunks": 9,
     "editor.autoClosingQuotes": "always",
     "editor.bracketPairColorization.enabled": true,
