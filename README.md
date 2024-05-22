@@ -2,8 +2,8 @@
 
 Example of https://github.com/ktock/vscode-container-wasm
 
-1. Open this repo on `github.dev` : https://github.dev/ktock/vscode-container-wasm-gcc-example?vscode-coi=on (if using `.` shortcut key, you need to add `?vscode-coi=on` query manually in the URL)
-2. Install `ktock.container-wasm` extension.
+1. Open this repo on `github.dev` : https://github.dev/Mr-Coxall/vscode-container-wasm-gcc-example?vscode-coi=on (if using `.` shortcut key, you need to add `?vscode-coi=on` query manually in the URL)
+2. Confirm the installation of `ktock.container-wasm` extension.
 3. Run `> Run Container On Browser` in the command pallete. Then the container will be launched with the Terminal (can take some time to start the container)
 
 ![Container on browser](./docs/vscode-container-wasm-gcc.png)
